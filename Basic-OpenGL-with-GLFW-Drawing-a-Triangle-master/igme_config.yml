@@ -1,0 +1,12 @@
+series: Basic OpenGL with GLFW
+title: Drawing a Triangle
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: A barebones OpenGL program that renders a triangle to the screen.
+language: C++
+tags:
+  - Graphics
+extra_resources:
+connections:
