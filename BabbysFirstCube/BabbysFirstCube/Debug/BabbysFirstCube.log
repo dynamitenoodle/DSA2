@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+  BabbysFirstCube.vcxproj -> J:\College\DSA2\BabbysFirstCube\Debug\BabbysFirstCube.exe
+  A subdirectory or file J:\College\DSA2\BabbysFirstCube\Debug\assets already exists.
+  J:\College\DSA2\BabbysFirstCube\assets\shaders\vertexShader.glsl
+  J:\College\DSA2\BabbysFirstCube\assets\shaders\fragmentShader.glsl
+  2 File(s) copied
